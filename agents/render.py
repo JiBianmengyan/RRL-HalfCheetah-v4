@@ -135,7 +135,6 @@ def save_gif(frames, path, fps=30):
 
 
 if __name__ == "__main__":
-    # 这里改成你要看的 run
     OUTPUT_DIR = "output/HalfCheetah-v4/sac/final_run/seed1"
     DEVICE = "cpu"
     MAX_STEPS = 1000
